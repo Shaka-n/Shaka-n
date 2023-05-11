@@ -1,1 +1,1 @@
-My name is Garen, my friends call me Stefan. I'm a software engineer. If you want a showcase piece, check out my Sailboat Simulator. Over-ambitious, and a bit silly, I think it's a great example of moving from theory to proof-of-concept.
+My name is Garen, my friends call me Stefan. I'm a software engineer and bootcamp grad. My most recent project is a Discord bot.
